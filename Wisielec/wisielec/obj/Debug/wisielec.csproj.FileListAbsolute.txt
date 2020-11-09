@@ -1,0 +1,13 @@
+C:\Users\mateuszmrozek\Desktop\MM v 0.1\Wisielec 1.0\wisielec\wisielec\bin\Debug\wisielec.exe.config
+C:\Users\mateuszmrozek\Desktop\MM v 0.1\Wisielec 1.0\wisielec\wisielec\bin\Debug\wisielec.exe
+C:\Users\mateuszmrozek\Desktop\MM v 0.1\Wisielec 1.0\wisielec\wisielec\bin\Debug\wisielec.pdb
+C:\Users\mateuszmrozek\Desktop\MM v 0.1\Wisielec 1.0\wisielec\wisielec\obj\Debug\wisielec.csprojAssemblyReference.cache
+C:\Users\mateuszmrozek\Desktop\MM v 0.1\Wisielec 1.0\wisielec\wisielec\obj\Debug\wisielec.exe
+C:\Users\mateuszmrozek\Desktop\MM v 0.1\Wisielec 1.0\wisielec\wisielec\obj\Debug\wisielec.pdb
+I:\C# Projekty\Pliki z Zajęć\MM v 0.1\Wisielec 1.0\wisielec\wisielec\bin\Debug\wisielec.exe.config
+I:\C# Projekty\Pliki z Zajęć\MM v 0.1\Wisielec 1.0\wisielec\wisielec\bin\Debug\wisielec.exe
+I:\C# Projekty\Pliki z Zajęć\MM v 0.1\Wisielec 1.0\wisielec\wisielec\bin\Debug\wisielec.pdb
+I:\C# Projekty\Pliki z Zajęć\MM v 0.1\Wisielec 1.0\wisielec\wisielec\obj\Debug\wisielec.csprojAssemblyReference.cache
+I:\C# Projekty\Pliki z Zajęć\MM v 0.1\Wisielec 1.0\wisielec\wisielec\obj\Debug\wisielec.csproj.CoreCompileInputs.cache
+I:\C# Projekty\Pliki z Zajęć\MM v 0.1\Wisielec 1.0\wisielec\wisielec\obj\Debug\wisielec.exe
+I:\C# Projekty\Pliki z Zajęć\MM v 0.1\Wisielec 1.0\wisielec\wisielec\obj\Debug\wisielec.pdb

@@ -1,0 +1,13 @@
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\bin\Debug\Zdanie b2 v2.exe.config
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\bin\Debug\Zdanie b2 v2.exe
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\bin\Debug\Zdanie b2 v2.pdb
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\obj\Debug\Zdanie b2 v2.csprojAssemblyReference.cache
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\obj\Debug\Zdanie b2 v2.csproj.CoreCompileInputs.cache
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\obj\Debug\Zdanie b2 v2.exe
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\obj\Debug\Zdanie b2 v2.pdb
+\\tsclient\E\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\bin\Debug\Zdanie b2 v2.exe.config
+\\tsclient\E\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\bin\Debug\Zdanie b2 v2.exe
+\\tsclient\E\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\bin\Debug\Zdanie b2 v2.pdb
+\\tsclient\E\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\obj\Debug\Zdanie b2 v2.csprojAssemblyReference.cache
+\\tsclient\E\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\obj\Debug\Zdanie b2 v2.exe
+\\tsclient\E\C# Projekty\Zestaw zadań\Zadania B\Zadanie B2\Zadanie B2 v2\Zdanie b2 v2\Zdanie b2 v2\obj\Debug\Zdanie b2 v2.pdb

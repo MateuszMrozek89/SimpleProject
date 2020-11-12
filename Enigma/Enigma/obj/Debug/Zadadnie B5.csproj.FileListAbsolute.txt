@@ -1,0 +1,7 @@
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B5\Zadadnie B5\Zadadnie B5\bin\Debug\Zadadnie B5.exe.config
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B5\Zadadnie B5\Zadadnie B5\bin\Debug\Zadadnie B5.exe
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B5\Zadadnie B5\Zadadnie B5\bin\Debug\Zadadnie B5.pdb
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B5\Zadadnie B5\Zadadnie B5\obj\Debug\Zadadnie B5.csprojAssemblyReference.cache
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B5\Zadadnie B5\Zadadnie B5\obj\Debug\Zadadnie B5.csproj.CoreCompileInputs.cache
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B5\Zadadnie B5\Zadadnie B5\obj\Debug\Zadadnie B5.exe
+I:\C# Projekty\Zestaw zadań\Zadania B\Zadanie B5\Zadadnie B5\Zadadnie B5\obj\Debug\Zadadnie B5.pdb
